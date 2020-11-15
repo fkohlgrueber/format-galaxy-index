@@ -3,6 +3,7 @@
   "description": "Comma-separated list of bytes",
   "versions": [
     ["0.1.0", "465da12361a202a48c4cebb4215d79cf7b7840811b98837214026284419ce5ba"],
-    ["0.1.1", "35cbf5c45d3a0f2404aba3e6d3a05984e51af1d92f5a51395708320ad5eba1dc"]
+    ["0.1.1", "35cbf5c45d3a0f2404aba3e6d3a05984e51af1d92f5a51395708320ad5eba1dc"],
+    ["x.x.x", "test"]
   ]
 }
