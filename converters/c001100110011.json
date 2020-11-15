@@ -1,0 +1,7 @@
+{
+  "name": "Bytes",
+  "description": "Comma-separated list of bytes",
+  "versions": [
+    ["0.1.0", "465da12361a202a48c4cebb4215d79cf7b7840811b98837214026284419ce5ba"]
+  ]
+}
