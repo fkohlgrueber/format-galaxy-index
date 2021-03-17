@@ -1,7 +1,0 @@
-{
-  "name": "Sequence of bytes",
-  "description": "This is a really simple binary file format. Each byte represents a single unsigned number.",
-  "converters": [
-    "c001100110011"
-  ]
-}

@@ -1,8 +1,0 @@
-{
-  "name": "BetterJson",
-  "description": "...",
-  "versions": [
-    ["0.1.0", "<hash_id>"],
-    ["1.0", "<another_hash_id>"]
-  ]
-}

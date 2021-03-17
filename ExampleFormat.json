@@ -1,8 +1,0 @@
-{
-  "name": "Sequence of u64",
-  "description": "This is a simple binary file format. The first 8 bytes (64 bits) contain the length of the sequence `n` encoded as an unsigned little-endian integer. The rest of the file contains exactly `n` 64 bit little-endian integers that are the values of the sequence. That's it!",
-  "converters": [
-    "<converter_id>",
-    "<converter_id>"
-  ]
-}
