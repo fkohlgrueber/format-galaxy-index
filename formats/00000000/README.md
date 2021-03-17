@@ -1,6 +1,6 @@
 # Sequence of bytes
 
-> ID: 0x00_00_00_00
+*A sequence of bytes, simple as that.*
 
 ## Definition
 
